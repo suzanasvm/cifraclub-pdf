@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from fpdf import FPDF
 import re
-
+#Implementado por Suzana Mota
 def buscar_cifra(musica, cantor):
     musica_formatada = musica.lower().replace(' ', '-')
     cantor_formatado = cantor.lower().replace(' ', '-')
