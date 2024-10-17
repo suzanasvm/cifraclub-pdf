@@ -21,5 +21,5 @@ Este projeto em Python é uma ferramenta que busca cifras de músicas no formato
 Um arquivo PDF chamado cifras.pdf será gerado, contendo as cifras formatadas.
 
 ## Exemplo de uso (Arquivo musicas.txt)
-Apenas uma Ilusão, Lulu Santos
-Cazuza, Exagerado
+Exagerado, Cazuza
+<br> Insira o nome da musica e em seguida uma virgula com o nome do cantor
